@@ -1,0 +1,6 @@
+This is me trying to use GitHub to do version control on my matlab code.
+
+The code is good for doing image processing on two-channel PLIF data, as presented in Soltys and Crimaldi 2011 (experiments in fluids).  
+
+The code requires matlab's image processing toolbox as well as the camera calibration toolbox for matlab, which can be downloaded here:
+http://www.vision.caltech.edu/bouguetj/calib_doc/  
